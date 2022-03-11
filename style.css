@@ -9,8 +9,8 @@ body{
 .nav-bar{
     background-color: #3474e6;
     color: white;
-    height: 60px;
-   word-wrap: break-word;
+    height: 6em;
+
 }
 .nav{
     display: flex;
@@ -26,8 +26,8 @@ body{
 .nav li a{
     color: white;
     text-decoration: none;
-    padding: 0px 22px;
-    padding-bottom: 2px;
+    padding: 0px 2em;
+    padding-bottom: 2em;
   
 }
 .nav li a:hover{
@@ -36,7 +36,7 @@ body{
 
 .logo{
     display: flex;
-    padding-top: 2px;
+    
     font-size: xx-large;
     
 }
